@@ -1,0 +1,15 @@
+# Rust build artifacts
+/target
+**/*.rs.bk
+
+# secrets (DO NOT COMMIT)
+token.env
+.env
+*.env
+
+# runtime data
+balances.json
+balances.json.tmp
+
+# optional local lists
+images.env
