@@ -10,6 +10,11 @@ token.env
 # runtime data
 balances.json
 balances.json.tmp
+data/
 
 # optional local lists
 images.env
+
+# local runtime data (do not commit)
+data/
+
